@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .dollarSigns{
     color: greenyellow;
     justify-content: center;
     text-align: center;
     font-size: 10em;
+=======
+.dollarSigns {
+    color: green;
+    justify-content: center;
+    text-align: center;
+    font-size: 15em;
+>>>>>>> smallChanges
 }
